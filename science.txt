@@ -1,4 +1,13 @@
+<<<<<<< HEAD
  
 Occupy Sandy was a self-organized disaster relief system.
 
 SCIENCE IS WITCHCRAFT!
+=======
+
+Occupy Sandy was a self-organized disaster relief system.
+
+It was great. They helped a lot of people.
+
+This is the branch "superbranch", huzzah!
+>>>>>>> superbranch
